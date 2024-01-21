@@ -1,0 +1,11 @@
+User Login/Register
+
+- route for login and Register
+- controller for login and Register
+  - login
+    - check email and password if correct generate access token, refresh token
+    - else display error message
+- Register
+    - create new user validate all fields
+    - if valid create new user
+    - else throw new error
